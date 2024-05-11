@@ -1,0 +1,17 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+#
+#
+---
+name: job
+version: "2024-04-26"
+sort: by_weight
+...
+# cg行业专业术语
+
+
+

@@ -1,0 +1,48 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+# ------- 一些杂项，按需选择 -------
+#
+#
+---
+name: game
+version: "2024-04-26"
+sort: by_weight
+...
+# 游戏名词
+龙蜥	lx	1
+龙蜥	long xi	1
+沉玉谷	cyg	1
+沉玉谷	chen yu gu	1
+枫原万叶	feng yuan wan ye	1
+那维莱特	na wei lai te	1
+芙宁娜	fu ning na	1
+纳西妲	na xi da	1
+
+# 角色状态
+1+1龙王0万无芙	cc	3
+道友有芙芙吗	cc	2
+我没芙芙	cc	1
+207913442	uid	2
+296721578	uid	1
+
+# 传奇短句
+你好！可以打几个<味ize=30>地方传奇</味ize>吗？	scq	8
+我叫几个同学一起打，你随便放两个进来就好。	scq	7
+枫丹药剂师、拳王和沉玉谷龙蜥。	scq	6
+<味ize=30>小心</味ize>躲避，怪的技能伤害很高。	scq	5
+<味ize=30>跟着跑</味ize>别掉队。	scq	4
+感谢！祝你游戏愉快欧气满满！	scq	3
+感谢！不再叨扰祝你游戏愉快！	scq	2
+左上往前有锦鲤按"T"上来！	scq	1
+
+# 材料短句
+你好可以采些材料吗	scl	1
+材料采好了	scl	2
+
+# 频道介绍
+企鹅频道搜索	spd	2
+"原神锄地|珊瑚宫"	spd	1
+
